@@ -1,0 +1,36 @@
+{
+  "choices": [
+    {
+      "id": "6bf2d0f5-7dfe-4271-bfa5-9f4d2e2f2be8",
+      "name": "week",
+      "type": "Template",
+      "command": true,
+      "templatePath": "01templates/weeks templates.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYMMDD}}周记"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "",
+          "02周记"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

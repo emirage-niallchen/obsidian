@@ -1,0 +1,175 @@
+{
+  "workspaces": {
+    "你好摘抄": {
+      "main": {
+        "id": "4a00f3858d29442c",
+        "type": "split",
+        "children": [
+          {
+            "id": "a6e736815a8a257e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9248bb99fbfb46bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "你好.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f0c8a82df968f583",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d81a7cde08a55d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "摘抄.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "560e5949ad4e7f2c",
+        "type": "split",
+        "children": [
+          {
+            "id": "9db73be363d698b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b29a50373efb544",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "52e90e4d8b394d20",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#多少分",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "29c7e7ab2fb1243f",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b5ba065e658f0595",
+        "type": "split",
+        "children": [
+          {
+            "id": "9eaf17a435328fbe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ec56327ca8406c0f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "摘抄.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6ac5f9bfac712c76",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "摘抄.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b81f3793bc3877d9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "4881e282c0412ecb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "摘抄.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "6d81a7cde08a55d0"
+    }
+  },
+  "active": "你好摘抄"
+}

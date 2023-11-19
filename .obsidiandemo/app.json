@@ -1,0 +1,18 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newFileFolderPath": "00inbox",
+  "attachmentFolderPath": "attachment",
+  "promptDelete": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
